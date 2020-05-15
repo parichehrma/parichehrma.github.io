@@ -4,7 +4,7 @@
 
 This repository presents a sampling of data science projects including exploratory data analysis, A/B testing, supervised and unsupervised learning models to make predictions. All datasets were taken from Kaggle and other resources. In each project, I applied exploratory data analysis and different learning models on different feature sets, evaluated models and chose the best one which I recommended as the best model to solve the research question. Below is a short explanation of each of the projects in my portfolio: 
 
-## [Coronavirus (covid_19):](https://github.com/parichehrma/PariMa.github.io./blob/master/Capstone%20Final%20about%20%20covid19.ipynb)
+## [Coronavirus (covid_19):](https://github.com/parichehrma/parichehrma.github.io/blob/master/Capstone%20Final%20about%20%20covid19.ipynb)
 
 ### Overview: 
 The focus of this project is to analyze COVID-19 and significant risk factors associated with this virus. It is also to find rates for confirmed cases or deaths and make predictions by different machine learning methods.
